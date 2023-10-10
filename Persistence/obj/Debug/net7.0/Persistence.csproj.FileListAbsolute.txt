@@ -1,0 +1,15 @@
+C:\Users\latel\Projects\SocAIlMedia\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\latel\Projects\SocAIlMedia\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\latel\Projects\SocAIlMedia\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\latel\Projects\SocAIlMedia\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\latel\Projects\SocAIlMedia\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\latel\Projects\SocAIlMedia\Persistence\obj\Debug\net7.0\ref\Persistence.dll
