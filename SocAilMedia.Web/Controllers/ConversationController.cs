@@ -1,5 +1,6 @@
 using Application.Scopes.ChatAi.Models;
 using Application.Scopes.Conversations;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SocAilMedia.Web.Controllers;
@@ -8,7 +9,8 @@ public class ConversationController : BaseApiController
 {
     private readonly IConfiguration _configuration;
 
-    public ConversationController(IConfiguration configuration) => _configuration = configuration;
+    public ConversationController(IConfiguration configuration, IMediator mediator) : base(mediator) => 
+        _configuration = configuration;
 
     [HttpPost("StartConversation")]
     public async Task<IActionResult> StartConversation(string message, string context)

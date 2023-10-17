@@ -25,10 +25,10 @@ public class StartConversation
         private readonly IChatAiService _chatAiService;
         private readonly IConversationService _conversationService;
 
-        public Handler(IChatAiService chatAiService, IConversationService service)
+        public Handler(IChatAiService chatAiService, IConversationService conversationService)
         {
             _chatAiService = chatAiService;
-            _conversationService = service;
+            _conversationService = conversationService;
         }
 
         public async Task<ConversationDto> Handle(Query request, CancellationToken cancellationToken)

@@ -1,5 +1,9 @@
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\package-lock.json
+C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\package.json
+C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\tsconfig.json
+C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\tsconfig.node.json
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\SocAilMedia.Web.exe
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\SocAilMedia.Web.deps.json
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\SocAilMedia.Web.runtimeconfig.json
@@ -114,7 +118,3 @@ C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\obj\Debug\net7.0\refint\SocA
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\obj\Debug\net7.0\SocAilMedia.Web.pdb
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\obj\Debug\net7.0\SocAilMedia.Web.genruntimeconfig.cache
 C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\obj\Debug\net7.0\ref\SocAilMedia.Web.dll
-C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\package-lock.json
-C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\package.json
-C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\tsconfig.json
-C:\Users\latel\Projects\SocAIlMedia\SocAilMedia.Web\bin\Debug\net7.0\ClientApp\tsconfig.node.json

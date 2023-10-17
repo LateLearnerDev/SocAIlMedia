@@ -8,7 +8,14 @@ namespace SocAilMedia.Web.Controllers;
 [Route("web/[controller]")]
 public class BaseApiController : Controller
 {
-    private IMediator? _mediator;
+    protected BaseApiController(IMediator mediator)
+    {
+        Mediator = mediator;
+    }
 
-    protected IMediator? Mediator => _mediator ??= HttpContext.RequestServices.GetService<IMediator>();
+    protected IMediator Mediator { get; }
+
+    // private IMediator? _mediator;
+    //
+    // protected IMediator? Mediator => _mediator ??= HttpContext.RequestServices.GetService<IMediator>();
 }

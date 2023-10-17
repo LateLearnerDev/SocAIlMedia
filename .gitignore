@@ -1,0 +1,16 @@
+# .NET Build Output
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+*.log
+*.user
+*.suo
+*.cache
+*.vscode
+.vscode/
+.vs/
+.vs2019/

@@ -2,11 +2,12 @@
 
 public static class SystemTime
 {
-    private static DateTime _date;
+    private static DateTime? _date;
 
-    public static DateTime Now => _date != DateTime.MinValue
-        ? _date
-        : DateTime.Now;
+    public static DateTime Now => _date ?? DateTime.Now;
+    public static DateTime UtcNow => _date ?? DateTime.UtcNow;
+
+    public static DateTime Today => _date ?? DateTime.Today;
 
     public static void Set(DateTime customDateTime)
     {
@@ -15,6 +16,6 @@ public static class SystemTime
 
     public static void Reset()
     {
-        _date = DateTime.MinValue;
+        _date = null;
     }
 }
